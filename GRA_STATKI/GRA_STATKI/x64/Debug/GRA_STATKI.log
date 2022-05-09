@@ -1,0 +1,93 @@
+﻿  Czlowiek.cpp
+C:\Users\P.NIERADZIK\Desktop\repozytorium\6ece386e-gr12-repo\Projekt\GRA_STATKI\GRA_STATKI\Czlowiek.cpp(31,10): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\P.NIERADZIK\Desktop\repozytorium\6ece386e-gr12-repo\Projekt\GRA_STATKI\GRA_STATKI\Czlowiek.cpp(32,10): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Gra.cpp
+  Gracz.cpp
+  Komputer.cpp
+  Koniec.cpp
+  main.cpp
+C:\Users\P.NIERADZIK\Desktop\repozytorium\6ece386e-gr12-repo\Projekt\GRA_STATKI\GRA_STATKI\main.cpp(6,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Menu.cpp
+  Plansza.cpp
+  Poczatek.cpp
+C:\Users\P.NIERADZIK\Desktop\repozytorium\6ece386e-gr12-repo\Projekt\GRA_STATKI\GRA_STATKI\Poczatek.cpp(184,82): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\P.NIERADZIK\Desktop\repozytorium\6ece386e-gr12-repo\Projekt\GRA_STATKI\GRA_STATKI\Poczatek.cpp(185,55): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\P.NIERADZIK\Desktop\repozytorium\6ece386e-gr12-repo\Projekt\GRA_STATKI\GRA_STATKI\Poczatek.cpp(189,55): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\P.NIERADZIK\Desktop\repozytorium\6ece386e-gr12-repo\Projekt\GRA_STATKI\GRA_STATKI\Poczatek.cpp(190,82): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\P.NIERADZIK\Desktop\repozytorium\6ece386e-gr12-repo\Projekt\GRA_STATKI\GRA_STATKI\Poczatek.cpp(197,79): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\P.NIERADZIK\Desktop\repozytorium\6ece386e-gr12-repo\Projekt\GRA_STATKI\GRA_STATKI\Poczatek.cpp(198,55): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\P.NIERADZIK\Desktop\repozytorium\6ece386e-gr12-repo\Projekt\GRA_STATKI\GRA_STATKI\Poczatek.cpp(202,55): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\P.NIERADZIK\Desktop\repozytorium\6ece386e-gr12-repo\Projekt\GRA_STATKI\GRA_STATKI\Poczatek.cpp(203,80): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\P.NIERADZIK\Desktop\repozytorium\6ece386e-gr12-repo\Projekt\GRA_STATKI\GRA_STATKI\Poczatek.cpp(210,82): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\P.NIERADZIK\Desktop\repozytorium\6ece386e-gr12-repo\Projekt\GRA_STATKI\GRA_STATKI\Poczatek.cpp(211,55): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\P.NIERADZIK\Desktop\repozytorium\6ece386e-gr12-repo\Projekt\GRA_STATKI\GRA_STATKI\Poczatek.cpp(215,55): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\P.NIERADZIK\Desktop\repozytorium\6ece386e-gr12-repo\Projekt\GRA_STATKI\GRA_STATKI\Poczatek.cpp(216,82): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\P.NIERADZIK\Desktop\repozytorium\6ece386e-gr12-repo\Projekt\GRA_STATKI\GRA_STATKI\Poczatek.cpp(223,80): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\P.NIERADZIK\Desktop\repozytorium\6ece386e-gr12-repo\Projekt\GRA_STATKI\GRA_STATKI\Poczatek.cpp(224,55): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\P.NIERADZIK\Desktop\repozytorium\6ece386e-gr12-repo\Projekt\GRA_STATKI\GRA_STATKI\Poczatek.cpp(228,55): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\P.NIERADZIK\Desktop\repozytorium\6ece386e-gr12-repo\Projekt\GRA_STATKI\GRA_STATKI\Poczatek.cpp(229,80): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Przycisk.cpp
+  Rozgrywka.cpp
+C:\Users\P.NIERADZIK\Desktop\repozytorium\6ece386e-gr12-repo\Projekt\GRA_STATKI\GRA_STATKI\Rozgrywka.cpp(59,153): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\P.NIERADZIK\Desktop\repozytorium\6ece386e-gr12-repo\Projekt\GRA_STATKI\GRA_STATKI\Rozgrywka.cpp(64,71): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Start.cpp
+  Statek.cpp
+  Zarzadzanie_gra.cpp
+  Generating Code...
+  GRA_STATKI.vcxproj -> C:\Users\P.NIERADZIK\Desktop\repozytorium\6ece386e-gr12-repo\Projekt\GRA_STATKI\x64\Debug\GRA_STATKI.exe
